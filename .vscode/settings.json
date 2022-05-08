@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "__tree": "cpp",
+    "bit": "cpp",
+    "cmath": "cpp",
+    "complex": "cpp",
+    "iostream": "cpp",
+    "new": "cpp"
+  }
+}
